@@ -1,0 +1,26 @@
+{
+  "name": "hapi-joi-webform-validation-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doubledherin/hapi-joi-webform-validation-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doubledherin/hapi-joi-webform-validation-sample/issues"
+  },
+  "homepage": "https://github.com/doubledherin/hapi-joi-webform-validation-sample#readme",
+  "dependencies": {
+    "handlebars": "^4.0.12",
+    "hapi": "^13.5.3",
+    "joi": "^8.4.2",
+    "vision": "^4.1.1"
+  }
+}
